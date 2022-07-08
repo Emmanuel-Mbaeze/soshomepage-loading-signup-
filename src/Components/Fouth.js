@@ -7,8 +7,8 @@ const Fouth = () => {
       <Left>
         <Wrapper>
           <Head>
-            The human race tends to remember the
-            <br /> abuses to which it has been subjected
+            The human race remembers the
+            <br /> abuses it has been subjected to
           </Head>
           <Text>
             In order to escape accountability for his crimes, the perpetrator
